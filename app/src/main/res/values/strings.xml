@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoOctavo</string>
+
+    <string name="invalid_mail">Ingrese mail valido</string>
+    <string name="invalid_password">Ingrese un password mayor a 6 dìgitos</string>
+    <!--    <string name="default_web_client_id" translatable="false">348646515018-m7sdim865lmmdundkoueucom76g53p3j.apps.googleusercontent.com</string>-->
+</resources>
